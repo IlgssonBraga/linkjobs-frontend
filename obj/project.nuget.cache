@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwjRPUdkiexwMiGMmMSns/1AjYYcpPuTJnmC9PCSKzPuYiMEtPiz/4/JWHr5rkqp43V/cSCkvQw+mPsjzU+aRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cael_\\Downloads\\LinkJobs_App\\LinkJobs_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cael_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512",
+    "C:\\Users\\cael_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cael_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cael_\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
